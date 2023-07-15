@@ -1,7 +1,7 @@
-streamlit==0.68.1
+streamlit
 pip==23.2
 pandas
-base58==2.0.0
+base58
 matplotlib
 numpy==1.24.3
 yfinance
